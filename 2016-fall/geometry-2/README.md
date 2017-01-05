@@ -33,6 +33,7 @@
 - [Решение задач по теме Аффинные пространства](../../docs/geometry/met_aff-seltasks.pdf)
 - [Мой частичный конспект по Аффинным пространствам](../../docs/geometry/lection_aff_my.pdf)
 - [Лекции по теме Проективные пространства](../../docs/geometry/lection_pro.pdf)
+- [Мой частичный конспект по Проективным пространствам](../../docs/geometry/lection_pro_my.pdf)
 
 
 ## Рейтинг
