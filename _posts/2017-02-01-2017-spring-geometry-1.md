@@ -21,8 +21,7 @@ categories: course
 - Прямая на плоскости
 - Координаты в пространстве
 - Уравнения плоскости и прямой в пространстве
-- Линии второго порядка. Окружность, эллипс.
-- Линии второго порядка. Гипербола. Парабола.
+- Линии второго порядка. Окружность, эллипс. Гипербола. Парабола.
 - Поверхности второго порядка
 
 ## Литература
@@ -36,8 +35,7 @@ categories: course
 
 Дополнительно:
 
-- появится позже
-
+- [Конспект по теме Элементы векторной алгебры](https://github.com/raxal/edu-courses/raw/master/docs/geometry/lection01_an.pdf)
 
 ## Рейтинг
 
@@ -46,4 +44,4 @@ categories: course
 - Контрольные работы: до 10 баллов
 - Индивидуальные задания: до 25 баллов
 
-[Журнал](https://github.com/raxal/edu-courses/blob/master/2017-fall/jrn/jrn_2017-spring_MB11_Geom.csv)
+[Журнал](https://github.com/raxal/edu-courses/blob/master/2017-spring/jrn/jrn_2017-spring_MB11_Geom.csv)
