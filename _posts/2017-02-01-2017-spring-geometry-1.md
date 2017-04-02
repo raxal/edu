@@ -36,6 +36,12 @@ categories: course
 Дополнительно:
 
 - [Конспект по теме Элементы векторной алгебры](https://github.com/raxal/edu-courses/raw/master/docs/geometry/lection01_an.pdf)
+- [Конспект по теме Координаты на плоскости](https://github.com/raxal/edu-courses/raw/master/docs/geometry/lection02_an.pdf)
+- [Конспект по теме Прямая на плоскости](https://github.com/raxal/edu-courses/raw/master/docs/geometry/lection03_an.pdf)
+
+Задачи:
+
+- [Комментарий к задаче о четырехугольнике](https://github.com/raxal/edu-courses/raw/master/docs/geometry/comment_an_01-trapez.pdf)
 
 ## Рейтинг
 
