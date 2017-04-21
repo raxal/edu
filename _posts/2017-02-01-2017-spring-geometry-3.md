@@ -40,7 +40,8 @@ categories: course
 
 Дополнительно:
 
-- появится позже
+- [Конспект по теме Кривые](https://github.com/raxal/edu-courses/raw/master/docs/geometry/lection01_dif.pdf)
+- [Конспект по теме Поверхности](https://github.com/raxal/edu-courses/raw/master/docs/geometry/lection02_dif.pdf)
 
 ## Рейтинг
 
