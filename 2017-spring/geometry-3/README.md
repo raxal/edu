@@ -36,6 +36,7 @@
 
 - [Конспект по теме Кривые](../../docs/geometry/lection01_dif.pdf)
 - [Конспект по теме Поверхности](../../docs/geometry/lection02_dif.pdf)
+- [Конспект по теме Основания геометрии](../../docs/geometry/lection03_dif.pdf)
 
 ## Рейтинг
 
