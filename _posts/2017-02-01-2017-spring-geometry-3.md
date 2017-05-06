@@ -45,6 +45,7 @@ categories: course
 - [Конспект по теме Кривые](https://github.com/raxal/edu-courses/raw/master/docs/geometry/lection01_dif.pdf)
 - [Конспект по теме Поверхности](https://github.com/raxal/edu-courses/raw/master/docs/geometry/lection02_dif.pdf)
 - [Конспект по теме Основания геометрии](https://github.com/raxal/edu-courses/raw/master/docs/geometry/lection03_dif.pdf)
+- [Лекции по теме Элементы геометрии Лобачевского](https://github.com/raxal/edu-courses/raw/master/docs/geometry/lection_loba.pdf)
 
 ## Рейтинг
 
