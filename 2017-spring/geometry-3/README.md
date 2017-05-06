@@ -37,6 +37,7 @@
 - [Конспект по теме Кривые](../../docs/geometry/lection01_dif.pdf)
 - [Конспект по теме Поверхности](../../docs/geometry/lection02_dif.pdf)
 - [Конспект по теме Основания геометрии](../../docs/geometry/lection03_dif.pdf)
+- [Лекции по теме Элементы геометрии Лобачевского](../../docs/geometry/lection_loba.pdf)
 
 ## Рейтинг
 
