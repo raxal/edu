@@ -40,6 +40,8 @@ categories: course
 - [Конспект по теме Элементы векторной алгебры](https://github.com/raxal/edu-courses/raw/master/docs/geometry/lection01_an.pdf)
 - [Конспект по теме Координаты на плоскости](https://github.com/raxal/edu-courses/raw/master/docs/geometry/lection02_an.pdf)
 - [Конспект по теме Прямая на плоскости](https://github.com/raxal/edu-courses/raw/master/docs/geometry/lection03_an.pdf)
+- [Конспект по теме Координаты в пространстве](https://github.com/raxal/edu-courses/raw/master/docs/geometry/lection04_an.pdf)
+- [Конспект по теме Уравнения плоскости и прямой в пространстве](https://github.com/raxal/edu-courses/raw/master/docs/geometry/lection05_an.pdf)
 
 Задачи:
 
