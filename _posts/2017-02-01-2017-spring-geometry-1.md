@@ -42,6 +42,9 @@ categories: course
 - [Конспект по теме Прямая на плоскости](https://github.com/raxal/edu-courses/raw/master/docs/geometry/lection03_an.pdf)
 - [Конспект по теме Координаты в пространстве](https://github.com/raxal/edu-courses/raw/master/docs/geometry/lection04_an.pdf)
 - [Конспект по теме Уравнения плоскости и прямой в пространстве](https://github.com/raxal/edu-courses/raw/master/docs/geometry/lection05_an.pdf)
+- [Конспект по теме Кривые второго порядка](https://github.com/raxal/edu-courses/raw/master/docs/geometry/lection06_an.pdf)
+- [Конспект по теме Классификация кривых второго порядка](https://github.com/raxal/edu-courses/raw/master/docs/geometry/lection07_an.pdf)
+- [Конспект по теме Поверхности второго порядка](https://github.com/raxal/edu-courses/raw/master/docs/geometry/lection08_an.pdf)
 
 Задачи:
 
