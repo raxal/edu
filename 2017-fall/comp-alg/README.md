@@ -10,4 +10,4 @@
 
 ## Программа
 
-- [Простые числа](powmod.ipynb)
+- [Простые числа](powmod.ipynb) (смотреть в [nbviewer](https://nbviewer.jupyter.org/github/raxal/edu-courses/blob/master/2017-fall/comp-alg/powmod.ipynb))
